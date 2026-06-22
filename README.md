@@ -21,3 +21,6 @@ Random Forest Classifier
 
 ## Results
 The model achieved approximately 79% accuracy.
+
+## Dashboard
+Created a Power BI dashboard to visualize customer churn patterns.
